@@ -29,11 +29,13 @@ def parse_from_email():
             news_item["date"] = news_date
             news_item["origin"] = news_origin
             news_item["title"] = news_title
+            news_item["news_link"] = link_url
             # parsed_news.append(news_item)
             try:
                 main_news_collection.insert_one(news_item)
-            except:
-                DuplicateKeyError
+            except DuplicateKeyError:
+                # main_news_collection.update_one({'_id': news_item["_id"]}, {'$set': {'news_link': link_url}})
+                pass
     # pprint(parsed_news, sort_dicts=False)
     for news in main_news_collection.find({}):
         pprint(news)
