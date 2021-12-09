@@ -11,6 +11,7 @@ import time
 
 def get_urls():
     s = Service('/home/pavel/Downloads/geckodriver')
+    global driver
     driver = Firefox(service=s)
     driver.get('https://mail.ru')
     username = driver.find_element(By.CLASS_NAME, 'email-input')
@@ -36,7 +37,6 @@ def get_urls():
         if new_links[-1].get_attribute("href") == href:
             break
     urls = list(set(urls))
-    driver.close()
     print(f'спарсено ccылок писем: {len(urls)}')
     return urls
 
@@ -51,41 +51,28 @@ def get_mail_info():
         db_item = {}
         print(f'{num} - {url}')
         num +=1
-        s = Service('/home/pavel/Downloads/geckodriver')
-        driver = Firefox(service=s)
         driver.get(url)
-        login = WebDriverWait(driver, 12).until(EC.presence_of_element_located((By.XPATH, '//input[@name="username"]')))
-        login.send_keys('study.ai_172')
-        next_btn = driver.find_element(By.XPATH, '//button[@data-test-id="next-button"]')
-        next_btn.click()
-        time.sleep(0.5)
-        password = driver.find_element(By.XPATH, '//input[@name="password"]')
-        password.send_keys('NextPassword172#')
-        driver.find_element(By.XPATH, '//button[@data-test-id="submit-button"]').click()
-        name = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'b-letter__head__subj__text')))
+        name = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'thread__subject')))
         id = url.split(':')[2]
-        from_el = driver.find_element(By.XPATH, '//div[@data-mnemo]/span[contains(@class, "js-contact-informer")]').text
-        date_el = driver.find_element(By.CLASS_NAME, 'b-letter__head__date').text
-        # print(f'{id}\n{name.text}\n{from_el}\n{date_el}')
+        from_el = driver.find_element(By.XPATH, '//span[@class="letter-contact"]').get_attribute('title')
+        date_el = driver.find_element(By.CLASS_NAME, 'letter__date').text
+        print(f'{id}\n{name.text}\n{from_el}\n{date_el}')
         db_item['_id'] = id
         db_item['Тема письма'] = name.text
         db_item['От кого'] = from_el
         db_item['Дата'] = date_el
-        try:
-            subj = driver.find_element(By.XPATH, '//div[contains(@id, "BODY")]').text
-            # print(subj)
-            db_item['Текст письма'] = subj
-        except Exception:
-            # print('message text not found')
-            db_item['Текст письма'] = 'текст не найден'
-        driver.close()
+        subj = driver.find_element(By.XPATH, '//div[contains(@class, "body-content")]').text
+        print(subj)
+        db_item['Текст письма'] = subj
         try:
             letters_collection.insert_one(db_item)
         except DuplicateKeyError:
             pass
-        break
+        
+    driver.close()
     print(f'занесено объектов в коллекцию БД: {letters_collection.estimated_document_count()}')    
     
 
 get_mail_info()
+
 
