@@ -1,0 +1,782 @@
+1641452022559	geckodriver	INFO	Listening on 127.0.0.1:53917
+1641452023442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "38509" "-no-remote" "-profile" "/tmp/rust_mozprofileLVsqfr"
+1641452102409	Marionette	INFO	Listening on port 44743
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641452391489	geckodriver	INFO	Listening on 127.0.0.1:40563
+1641452391738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "33103" "-no-remote" "-profile" "/tmp/rust_mozprofilePxBaFt"
+1641452422526	Marionette	INFO	Listening on port 34215
+1641452422704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641452450167	Marionette	INFO	Stopped listening on port 34215
+1641452510784	geckodriver	INFO	Listening on 127.0.0.1:45281
+1641452510878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "57391" "-no-remote" "-profile" "/tmp/rust_mozprofilew2NCwk"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641452530961	Marionette	INFO	Listening on port 37967
+1641452531056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641452537088	Marionette	INFO	Stopped listening on port 37967
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1641452796312	geckodriver	INFO	Listening on 127.0.0.1:48517
+1641452796365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41605" "-no-remote" "-profile" "/tmp/rust_mozprofilegnLNeY"
+1641452818166	Marionette	INFO	Listening on port 40237
+1641452818540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641452828290	Marionette	INFO	Stopped listening on port 40237
+1641452977859	geckodriver	INFO	Listening on 127.0.0.1:59487
+1641452978022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32839" "-no-remote" "-profile" "/tmp/rust_mozprofileHYTyFx"
+1641452996187	Marionette	INFO	Listening on port 44655
+1641452996345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641453011891	Marionette	INFO	Stopped listening on port 44655
+1641454229079	geckodriver	INFO	Listening on 127.0.0.1:43547
+1641454229621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44429" "-no-remote" "-profile" "/tmp/rust_mozprofileoGPFj4"
+1641454277603	Marionette	INFO	Listening on port 35901
+1641454277813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641454288025	Marionette	INFO	Stopped listening on port 35901
+1641514520536	geckodriver	INFO	Listening on 127.0.0.1:35553
+1641514521015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "41679" "-no-remote" "-profile" "/tmp/rust_mozprofilen7oDrS"
+1641514562363	Marionette	INFO	Listening on port 33629
+1641514562684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641514572883	Marionette	INFO	Stopped listening on port 33629
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1641514785798	geckodriver	INFO	Listening on 127.0.0.1:33811
+1641514786312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "38739" "-no-remote" "-profile" "/tmp/rust_mozprofileEEsKgz"
+1641514825354	Marionette	INFO	Listening on port 38635
+1641514825434	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641514834242	Marionette	INFO	Stopped listening on port 38635
+1641515437604	geckodriver	INFO	Listening on 127.0.0.1:44787
+1641515438103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "47839" "-no-remote" "-profile" "/tmp/rust_mozprofileOC5FnF"
+1641515466326	Marionette	INFO	Listening on port 42309
+1641515466458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641515472149	Marionette	INFO	Stopped listening on port 42309
+1641515515565	geckodriver	INFO	Listening on 127.0.0.1:34295
+1641515515621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-start-maximized" "--remote-debugging-port" "55949" "-no-remote" "-profile" "/tmp/rust_mozprofileMI48dM"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641515533770	Marionette	INFO	Listening on port 38427
+1641515534007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641515537214	Marionette	INFO	Stopped listening on port 38427
+1641515571384	geckodriver	INFO	Listening on 127.0.0.1:39545
+1641515571440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "51421" "-no-remote" "-profile" "/tmp/rust_mozprofilePEyWRU"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641515591799	Marionette	INFO	Listening on port 45521
+1641515591913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641515595334	Marionette	INFO	Stopped listening on port 45521
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1641519616579	geckodriver	INFO	Listening on 127.0.0.1:43877
+1641519617060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "57271" "-no-remote" "-profile" "/tmp/rust_mozprofileaURp8s"
+1641519649990	Marionette	INFO	Listening on port 39711
+1641519650292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641519759325	Marionette	INFO	Stopped listening on port 39711
+1641519827186	geckodriver	INFO	Listening on 127.0.0.1:36961
+1641519827269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "41543" "-no-remote" "-profile" "/tmp/rust_mozprofileWDNqzk"
+1641519851451	Marionette	INFO	Listening on port 37755
+1641519851627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641519974030	Marionette	INFO	Stopped listening on port 37755
+1641520066894	geckodriver	INFO	Listening on 127.0.0.1:44425
+1641520066942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "60229" "-no-remote" "-profile" "/tmp/rust_mozprofileRGEAHX"
+1641520086631	Marionette	INFO	Listening on port 35187
+1641520086860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641520144384	Marionette	INFO	Stopped listening on port 35187
+1641520182028	geckodriver	INFO	Listening on 127.0.0.1:37989
+1641520182080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "48795" "-no-remote" "-profile" "/tmp/rust_mozprofileV6fzdu"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641520204241	Marionette	INFO	Listening on port 41041
+1641520204351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641520239051	Marionette	INFO	Stopped listening on port 41041
+1641520384964	geckodriver	INFO	Listening on 127.0.0.1:46867
+1641520385018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "45019" "-no-remote" "-profile" "/tmp/rust_mozprofileKAvrG2"
+1641520404455	Marionette	INFO	Listening on port 35953
+1641520404742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641520408265	Marionette	INFO	Stopped listening on port 35953
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1641520462027	geckodriver	INFO	Listening on 127.0.0.1:53125
+1641520462080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "49289" "-no-remote" "-profile" "/tmp/rust_mozprofileP4tQRk"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641520482775	Marionette	INFO	Listening on port 37527
+1641520482944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641520486513	Marionette	INFO	Stopped listening on port 37527
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1641521311694	geckodriver	INFO	Listening on 127.0.0.1:42641
+1641521311761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "60563" "-no-remote" "-profile" "/tmp/rust_mozprofileM7NPlk"
+1641521331711	Marionette	INFO	Listening on port 38879
+1641521331840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641521577308	Marionette	INFO	Stopped listening on port 38879
+1641521916527	geckodriver	INFO	Listening on 127.0.0.1:58115
+1641521916688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "49203" "-no-remote" "-profile" "/tmp/rust_mozprofilezzfJHR"
+1641521941415	Marionette	INFO	Listening on port 32971
+1641521941557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641521963536	Marionette	INFO	Stopped listening on port 32971
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2213,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2213","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:923","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3512","chrome://marionette/content/server.js:despatch:305","chrome://marionette/content/server.js:execute:275","chrome://marionette/content/server.js:onPacket/<:248","chrome://marionette/content/server.js:onPacket:249","chrome://marionette/content/transport.js:_onJSONObjectReady/<:501"]}] Barrier: quit-application-granted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641522367852	geckodriver	INFO	Listening on 127.0.0.1:33753
+1641522367907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "40385" "-no-remote" "-profile" "/tmp/rust_mozprofilennEtqX"
+1641522387151	Marionette	INFO	Listening on port 33433
+1641522387374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641523560760	geckodriver	INFO	Listening on 127.0.0.1:55697
+1641523561320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "41569" "-no-remote" "-profile" "/tmp/rust_mozprofileQvAMvV"
+1641523594601	Marionette	INFO	Listening on port 36683
+1641523594645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 302 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641523631267	Marionette	INFO	Stopped listening on port 36683
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641523780375	geckodriver	INFO	Listening on 127.0.0.1:40175
+1641523780422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "52955" "-no-remote" "-profile" "/tmp/rust_mozprofileHLrznG"
+1641523803604	Marionette	INFO	Listening on port 42529
+1641523803744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641524834222	Marionette	INFO	Stopped listening on port 42529
+1641524989634	geckodriver	INFO	Listening on 127.0.0.1:48059
+1641524989804	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "49731" "-no-remote" "-profile" "/tmp/rust_mozprofile2lzJGk"
+1641525018827	Marionette	INFO	Listening on port 42295
+1641525019039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641525235177	Marionette	INFO	Stopped listening on port 42295
+1641525361572	geckodriver	INFO	Listening on 127.0.0.1:51657
+1641525361830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "37111" "-no-remote" "-profile" "/tmp/rust_mozprofile1eyal8"
+1641525390701	Marionette	INFO	Listening on port 44201
+1641525390937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+1641525701333	Marionette	INFO	Stopped listening on port 44201
+1641525831019	geckodriver	INFO	Listening on 127.0.0.1:35075
+1641525831584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "58987" "-no-remote" "-profile" "/tmp/rust_mozprofilerOnceG"
+1641525855438	Marionette	INFO	Listening on port 36093
+1641525855542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641525895920	Marionette	INFO	Stopped listening on port 36093
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1641526097791	geckodriver	INFO	Listening on 127.0.0.1:39873
+1641526097843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "48347" "-no-remote" "-profile" "/tmp/rust_mozprofileeTR3SQ"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641526116359	Marionette	INFO	Listening on port 46855
+1641526116511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641526150668	Marionette	INFO	Stopped listening on port 46855
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641526324915	geckodriver	INFO	Listening on 127.0.0.1:36011
+1641526324969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "33653" "-no-remote" "-profile" "/tmp/rust_mozprofileNYpg34"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641526343143	Marionette	INFO	Listening on port 42749
+1641526343299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1641526365624	Marionette	INFO	Stopped listening on port 42749
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2213,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2213","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:923","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3512","chrome://marionette/content/server.js:despatch:305","chrome://marionette/content/server.js:execute:275","chrome://marionette/content/server.js:onPacket/<:248","chrome://marionette/content/server.js:onPacket:249","chrome://marionette/content/transport.js:_onJSONObjectReady/<:501"]}] Barrier: quit-application-granted
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641526464101	geckodriver	INFO	Listening on 127.0.0.1:46189
+1641526464155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "43945" "-no-remote" "-profile" "/tmp/rust_mozprofileITh7rY"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641526483008	Marionette	INFO	Listening on port 35623
+1641526483165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641526517835	Marionette	INFO	Stopped listening on port 35623
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1641527304190	geckodriver	INFO	Listening on 127.0.0.1:58639
+1641527304318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "42735" "-no-remote" "-profile" "/tmp/rust_mozprofilefMWsEi"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641527323543	Marionette	INFO	Listening on port 45717
+1641527323680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641527373662	Marionette	INFO	Stopped listening on port 45717
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4474: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIContentPermissionRequest.cancel]
+1641527444944	geckodriver	INFO	Listening on 127.0.0.1:45333
+1641527445238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "50579" "-no-remote" "-profile" "/tmp/rust_mozprofilee9DpMy"
+1641527476665	Marionette	INFO	Listening on port 46729
+1641527476793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://marionette/content/capture.js :: capture.canvas :: line 140"  data: no]
+capture.canvas@chrome://marionette/content/capture.js:140:62
+GeckoDriver.prototype.takeScreenshot@chrome://marionette/content/driver.js:3072:30
+
+1641527720852	Marionette	INFO	Stopped listening on port 46729
+1641527791853	geckodriver	INFO	Listening on 127.0.0.1:34767
+1641527792123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "37283" "-no-remote" "-profile" "/tmp/rust_mozprofilenO7dcE"
+1641527823862	Marionette	INFO	Listening on port 45801
+1641527823932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+1641527847977	Marionette	INFO	Stopped listening on port 45801
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2213,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2213","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:923","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3512","chrome://marionette/content/server.js:despatch:305","chrome://marionette/content/server.js:execute:275","chrome://marionette/content/server.js:onPacket/<:248","chrome://marionette/content/server.js:onPacket:249","chrome://marionette/content/transport.js:_onJSONObjectReady/<:501"]}] Barrier: quit-application-granted
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1641527972791	geckodriver	INFO	Listening on 127.0.0.1:32921
+1641527972905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--start-maximized" "--remote-debugging-port" "60361" "-no-remote" "-profile" "/tmp/rust_mozprofileRhGPoU"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1641527994467	Marionette	INFO	Listening on port 43737
+1641527994659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-59LR38P, line 35: uncaught exception: [object Object]
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 42 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript error: https://xn--80az8a.xn--d1aqf.xn--p1ai/%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BA/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2/%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA?objStatus=0&residentialBuildings=1&place=0-26&page=0&limit=10 line 300 > scriptElement, line 1: TypeError: document.querySelector(...) is null
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: getContext: Disallowing antialiased backbuffers due to blacklisting. (FEATURE_FAILURE_OPENGL_1)
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: WebGL warning: <Create>: Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 117: Failed to create WebGL context: WebGL creation failed: 
+* Refused to create native OpenGL context because of blacklist entry: FEATURE_FAILURE_OPENGL_1
+* Exhausted GL driver options.
+1641528223775	Marionette	INFO	Stopped listening on port 43737
